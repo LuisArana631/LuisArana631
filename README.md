@@ -53,7 +53,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.aunno.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.aunno.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/luis-arana-a44598191/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luis%20Arana-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/luis_fer631/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-luis__fer631-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:luarana631@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-luarana631@gmail.com-blue?style=flat-square&logo=gmail"></a>
