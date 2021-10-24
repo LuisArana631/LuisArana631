@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Systems Engineering at University of San Carlos of Guatemala.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Devops and Artificial Intelligence.
 - ✍️ &nbsp; Sharing my knowledge in youtube 😁 
 
 <p align="center">
