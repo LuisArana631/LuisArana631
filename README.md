@@ -44,7 +44,7 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisArana631&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?LuisArana631=anuraghazra&repo=convoychat" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisArana631&theme=buefy&layout=compact" />
 </a>
 
